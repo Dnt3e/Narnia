@@ -7,9 +7,9 @@ Check out the original project: [Stormotron/Narnia](https://github.com/stormotro
 
 ---
 
-## ⚡ Quick Link to Persian README
+## ⚡ توضیحات فارسی
 
-For a **friendly Persian guide**, see [READMEFA.md](READMEFA.md)  
+برای **فارسی**, زبانان [لینک توضیحات فارسی](READMEFA.md)  
 
 ---
 
