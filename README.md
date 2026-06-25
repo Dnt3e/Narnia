@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡 Narnia 
+# 🔀 Narnia 
 **پایدار؛ پنهان در ترافیک Ping!**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dnt3e/Narnia/blob/main/Narnia.png">
