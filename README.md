@@ -52,39 +52,23 @@ Stormotron tested the tunnel with `iperf` on TCP:
 
 ```text
 
-# iperf -c 192.168.0.1
-
+# iperf -c 10.200.200.1
 ------------------------------------------------------------
-
-Client connecting to 192.168.0.1, TCP port 5001
-
+Client connecting to 10.200.200.1, TCP port 5001
 TCP window size: 16.0 KByte (default)
-
 ------------------------------------------------------------
-
-[  1] local 192.168.0.2 port 36270 connected with 192.168.0.1 port 5001
-
+[  1] local 10.200.200.2 port 54852 connected with 192.168.0.1 port 5001 (icwnd/mss/irtt=14/1448/1727)
 [ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0985 sec  65.4 MBytes  54.3 Mbits/sec
 
-[  1] 0.00-10.16 sec  45.1 MBytes  37.3 Mbits/sec
-
-
-
-# iperf -c 192.168.0.1 -R
-
+# iperf -c 10.200.200.1 -R
 ------------------------------------------------------------
-
-Client connecting to 192.168.0.1, TCP port 5001
-
+Client connecting to 10.200.200.2, TCP port 5001
 TCP window size: 16.0 KByte (default)
-
 ------------------------------------------------------------
-
-[  1] local 192.168.0.2 port 49500 connected with 192.168.0.1 port 5001 (reverse)
-
+[  1] local 10.200.200.1 port 52778 connected with 192.168.0.1 port 5001 (reverse) (icwnd/mss/irtt=14/1448/1623)
 [ ID] Interval       Transfer     Bandwidth
-
-[ *1] 0.00-10.13 sec  45.5 MBytes  37.7 Mbits/sec
+[ *1] 0.0000-10.0884 sec  75.8 MBytes  63.0 Mbits/sec
 
 ```
 <div align="center">
