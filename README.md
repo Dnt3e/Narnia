@@ -66,7 +66,7 @@ TCP window size: 16.0 KByte (default)
 Client connecting to 10.200.200.2, TCP port 5001
 TCP window size: 16.0 KByte (default)
 ------------------------------------------------------------
-[  1] local 10.200.200.1 port 52778 connected with 192.168.0.1 port 5001 (reverse) (icwnd/mss/irtt=14/1448/1623)
+[  1] local 10.200.200.2 port 52778 connected with 10.200.200.1 port 5001 (reverse) (icwnd/mss/irtt=14/1448/1623)
 [ ID] Interval       Transfer     Bandwidth
 [ *1] 0.0000-10.0884 sec  75.8 MBytes  63.0 Mbits/sec
 
