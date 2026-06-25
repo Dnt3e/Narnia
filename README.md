@@ -57,7 +57,7 @@ Stormotron tested the tunnel with `iperf` on TCP:
 Client connecting to 10.200.200.1, TCP port 5001
 TCP window size: 16.0 KByte (default)
 ------------------------------------------------------------
-[  1] local 10.200.200.2 port 54852 connected with 192.168.0.1 port 5001 (icwnd/mss/irtt=14/1448/1727)
+[  1] local 10.200.200.2 port 54852 connected with 10.200.200.1 port 5001 (icwnd/mss/irtt=14/1448/1727)
 [ ID] Interval       Transfer     Bandwidth
 [  1] 0.0000-10.0985 sec  65.4 MBytes  54.3 Mbits/sec
 
