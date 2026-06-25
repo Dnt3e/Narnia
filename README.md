@@ -87,7 +87,19 @@ TCP window size: 16.0 KByte (default)
 [ *1] 0.00-10.13 sec  45.5 MBytes  37.7 Mbits/sec
 
 ```
+<div align="center">
 
+---
+
+این پروژه با الگو برداری از پروژه سازنده اصلی توسعه داده شده
+
+**پروژه اصلی:** [Stormotron/Narnia](https://github.com/Stormotron/Narnia)
+
+برای حمایت لطفا به پروژه استار دهید و در [✈️ کانال تلگرام](https://t.me/Dnt3e) عضو بشید.
+
+---
+
+</div>
 <div align="center">
   
 ### ساخته شده برای شما ❤️
